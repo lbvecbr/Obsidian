@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "3a18cdac304363f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f2ff26f7a926408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa27078491afca67",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Obsidian/git ветки.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.903590400806091,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "3ff315dd954bafcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/git ветки.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e10a738aaec0d83b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "76f4fb871a91f103",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "24c38387d6d40a92",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "06aac49859f588b7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fbcfd24305524d0a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cef900b2ae424ed9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a88dc9e3211a771",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian/git ветки.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fbfe734fd6b2062c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Obsidian/git ветки.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f0bf67dc8121f8a8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Obsidian/git ветки.md"
+          }
+        }
+      },
+      {
+        "id": "34c08f2f78303d73",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "3ff315dd954bafcf",
+  "lastOpenFiles": [
+    "Obsidian/git отмена коммита.md",
+    "Obsidian/git ветки.md",
+    "Obsidian/Git изменение коммита.md",
+    "Obsidian/Переменные окружения Linux.md",
+    "Obsidian/git config.md",
+    "Obsidian/Termux GUI Wayland.md",
+    "Obsidian/Python виртуальная среда.md",
+    "Obsidian/git установить редактор.md",
+    "Obsidian/Алиасы Linux.md",
+    "Obsidian/Таблицы Markdown.md",
+    "Obsidian/Linux фоновые процессы.md",
+    "Obsidian/Zathura for mac.md",
+    "Obsidian/Lua Шпаргалка.md",
+    "Obsidian/Attachment/Shell.pdf",
+    "Obsidian/Attachment/Termux GUI Wayland.md",
+    "Obsidian/Основи.md",
+    "Termux GUI Wayland.md",
+    "Переменные окружения.md",
+    "Основи.md",
+    "Lua Шпаргалка.md",
+    "Obsidian.md",
+    "IT.md",
+    "Obsidian диджитализируй.md",
+    "Основи.sync-conflict-20231221-051559-DPI2SEI.md",
+    "Templates",
+    "Attachment/IMG_0014.jpeg",
+    "Attachment",
+    "IT/Obsidian диджитализируй.md",
+    "IT/Основи.md",
+    "2023-12-22.md",
+    "Untitled.canvas",
+    "IT/Templates"
+  ]
+}

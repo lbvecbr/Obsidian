@@ -1,0 +1,29 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:undo",
+    "editor:redo",
+    "editor:context-menu",
+    "editor:toggle-code",
+    "editor:insert-codeblock",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:insert-callout",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar",
+    "insert-current-time"
+  ],
+  "newFileLocation": "current",
+  "newFileFolderPath": "Obsidian"
+}
