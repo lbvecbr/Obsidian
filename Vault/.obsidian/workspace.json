@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "ef780da9b797ebed",
+    "type": "split",
+    "children": [
+      {
+        "id": "1286c6a165dcd5e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77a09a5ec7d7c935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Netplan настройка сети на сервере.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4981464ffab5cef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaa5f495a39af4d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fac2ef937d5b269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3cf7c9045af361a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ef6160d76f3eb1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a593900d5bdb60df",
+    "type": "split",
+    "children": [
+      {
+        "id": "905f57e361861514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7519ef1a602dc83e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Netplan настройка сети на сервере.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d599727b01ebd100",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Netplan настройка сети на сервере.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5311572dfa5556c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b8fff78b34e0aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Netplan настройка сети на сервере.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1fac2ef937d5b269",
+  "lastOpenFiles": [
+    "Подключение к WiFi из командной строки Windows.md",
+    "Attachment/wifi_cli_win3.jpg",
+    "Attachment/wifi_cli_win3.jpg.crdownload",
+    "Attachment/wifi_cli_win2.jpg",
+    "Attachment/wifi_cli_win2.jpg.crdownload",
+    "Attachment/wifi_cli_win1.jpg",
+    "Attachment/wifi_cli_win1.jpg.crdownload",
+    "Arch AUR.md",
+    "git отмена коммита.md",
+    "Таблицы Markdown.md",
+    "Алиасы Linux.md"
+  ]
+}
