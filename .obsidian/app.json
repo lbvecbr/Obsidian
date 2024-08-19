@@ -1,0 +1,26 @@
+{
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:context-menu",
+    "editor:toggle-code",
+    "editor:insert-codeblock",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:redo",
+    "editor:undo",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ]
+}
