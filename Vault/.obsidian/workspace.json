@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Term",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "77a09a5ec7d7c935",
+  "active": "f3cf7c9045af361a",
   "lastOpenFiles": [
     "Настройка NGINX под python Диджитализируй.md",
     "Переменные окружения Linux.md",
