@@ -2,7 +2,7 @@
 `ssh-keygen`
 `ssh-copy-id dimon@192.168.0.180`
 
-На сервере для безопасности отключем вход по паролю
+На сервере для безопасности отключаем вход по паролю
 `sudo vim /etc/ssh/sshd_config`
 `Passwordauthetification yes/no`
 
