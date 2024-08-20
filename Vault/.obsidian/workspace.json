@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алиасы Linux.md",
+                "file": "Termux передача файлов SFTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алиасы Linux.md",
+                "file": "Termux передача файлов SFTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алиасы Linux.md",
+                "file": "Termux передача файлов SFTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алиасы Linux.md"
+                "file": "Termux передача файлов SFTP.md"
               }
             }
           }
@@ -148,11 +148,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f3cf7c9045af361a",
+  "active": "77a09a5ec7d7c935",
   "lastOpenFiles": [
+    "Алиасы Linux.md",
+    "Termux передача файлов SFTP.md",
     "Настройка NGINX под python Диджитализируй.md",
     "Переменные окружения Linux.md",
-    "Алиасы Linux.md",
     "BASH вывод даты и времени.md",
     "Termux SSH клиент.md",
     "Termux SSH сервер.md",
