@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Termux SSH клиент.md",
+                "file": "Termux передача файлов SFTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Termux SSH клиент.md",
+            "file": "Termux передача файлов SFTP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Termux SSH клиент.md",
+            "file": "Termux передача файлов SFTP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Termux SSH клиент.md"
+            "file": "Termux передача файлов SFTP.md"
           }
         }
       }
@@ -133,13 +133,15 @@
   },
   "active": "0f02c9f3c2b973fe",
   "lastOpenFiles": [
+    "Linux SCP передача файлов.md",
+    "Termux передача файлов SFTP.md",
+    "Настройка NGINX под python Диджитализируй.md",
     "Linux смена shell.md",
-    "Termux SSH сервер.md",
     "Termux SSH клиент.md",
+    "Termux SSH сервер.md",
     "BASH вывод даты и времени.md",
     "Untitled.md",
     "Termux подключение по SSH.md",
-    "Настройка NGINX под python Диджитализируй.md",
     "Obsidian диджитализируй.md"
   ]
 }
