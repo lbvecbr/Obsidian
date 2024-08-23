@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Настройка NGINX под python Диджитализируй.md",
+                "file": "Сервер под Streamlit.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ngi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Настройка NGINX под python Диджитализируй.md",
+                "file": "Сервер под Streamlit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Настройка NGINX под python Диджитализируй.md",
+                "file": "Сервер под Streamlit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,12 +127,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Настройка NGINX под python Диджитализируй.md"
+                "file": "Сервер под Streamlit.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,27 +140,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "77a09a5ec7d7c935",
   "lastOpenFiles": [
-    "Netplan настройка сети на сервере.md",
-    "Подключение к WiFi из командной строки Windows.md",
-    "Termux передача файлов SFTP.md",
-    "Алиасы Linux.md",
-    "Настройка NGINX под python Диджитализируй.md",
-    "Переменные окружения Linux.md",
-    "BASH вывод даты и времени.md",
-    "Termux SSH клиент.md",
     "Termux SSH сервер.md",
-    "Вход на сервер по ssh ключу.md",
+    "Сервер под Streamlit.md",
+    "Настройка NGINX под python Диджитализируй.md",
+    "Termux передача файлов SFTP.md",
+    "Termux SSH клиент.md",
+    "Linux смена shell.md",
+    "BASH вывод даты и времени.md",
     "SSH сервер настройка.md",
+    "Recuva для Linux.md",
+    "Рабочие столы Windows 11.md",
+    "Таблицы Markdown.md",
+    "Подключение к WiFi из командной строки Windows.md",
+    "Основи.md",
+    "Untitled.canvas",
+    "Netplan настройка сети на сервере.md",
     "Attachment/wifi_cli_win3.jpg",
     "Attachment/wifi_cli_win3.jpg.crdownload",
     "Attachment/wifi_cli_win2.jpg",
@@ -170,6 +173,6 @@
     "Attachment/wifi_cli_win1.jpg.crdownload",
     "Arch AUR.md",
     "git отмена коммита.md",
-    "Таблицы Markdown.md"
+    "Алиасы Linux.md"
   ]
 }
