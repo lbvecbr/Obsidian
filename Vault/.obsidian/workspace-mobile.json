@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows 11 отключить поиск в интернет.md",
-                "mode": "source",
+                "file": "Zathura for mac.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Windows 11 отключить поиск в интернет.md",
+            "file": "Zathura for mac.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Windows 11 отключить поиск в интернет.md",
+            "file": "Zathura for mac.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Windows 11 отключить поиск в интернет.md"
+            "file": "Zathura for mac.md"
           }
         }
       }
@@ -133,8 +133,11 @@
   },
   "active": "0f02c9f3c2b973fe",
   "lastOpenFiles": [
-    "Windows 10-11 буфер обмена.md",
+    "Linux какие порты слушаются.md",
+    "Zathura for mac.md",
     "Windows 11 отключить поиск в интернет.md",
+    "Сервер под Streamlit.md",
+    "Windows 10-11 буфер обмена.md",
     "Linux фоновые процессы.md",
     "Linux SCP передача файлов.md",
     "Termux передача файлов SFTP.md",
