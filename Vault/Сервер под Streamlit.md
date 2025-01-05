@@ -32,7 +32,7 @@ root /usr/share/nginx/html;
 	}  
 }
 ```
-Тестируем кофиг
+Тестируем конфиг
 `sudo nginx -t`
 `sudo systemctl start nginx`
 `streamlit run [my script].py --server.address 0.0.0.0 --server.port 8502`
